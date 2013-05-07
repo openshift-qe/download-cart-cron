@@ -30,3 +30,4 @@ Scaling:
   Min: 1
   Max: 1
 Install-Build-Required: false
+Source-Url: https://github.com/jhou1/v2cron.git
