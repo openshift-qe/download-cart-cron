@@ -29,5 +29,9 @@ Subscribes:
 Scaling:
   Min: 1
   Max: 1
+Group-Overrides:
+  - components:
+    - cron-1.4
+    - web_framework
 Install-Build-Required: false
 Source-Url: https://github.com/jhou1/dcart-cron.git
