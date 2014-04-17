@@ -10,8 +10,8 @@ Website: "http://www.openshift.com/"
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: jhoucron
 Categories:
-  - embedded
-  - plugin
+- embedded
+- plugin
 Help-Topics:
   "Getting Started Guide": https://www.openshift.com/blogs/getting-started-with-cron-jobs-on-openshift
 Provides:
