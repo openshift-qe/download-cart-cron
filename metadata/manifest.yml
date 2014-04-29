@@ -30,8 +30,8 @@ Subscribes:
   remove-job:
     Type: "STRING:job"
 Scaling:
-  Min: 1
-  Max: -1
+  Min: 0
+  Max: 0
 Group-Overrides:
   - components:
     - cron-1.4
