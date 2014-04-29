@@ -12,8 +12,6 @@ Cartridge-Vendor: jhoucron
 Categories:
 - service
 - plugin
-- external
-- web_proxy
 Help-Topics:
   "Getting Started Guide": https://www.openshift.com/blogs/getting-started-with-cron-jobs-on-openshift
 Provides:
@@ -29,9 +27,6 @@ Subscribes:
     Type: "STRING:job"
   remove-job:
     Type: "STRING:job"
-Scaling:
-  Min: 0
-  Max: 0
 Group-Overrides:
   - components:
     - cron-1.4
