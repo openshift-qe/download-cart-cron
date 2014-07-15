@@ -32,4 +32,4 @@ Group-Overrides:
     - cron-1.4
     - web_framework
 Install-Build-Required: false
-Source-Url: https://github.com/jhou1/dcart-cron.git
+Source-Url: https://github.com/openshift-qe/download-cart-cron.git
